@@ -1,9 +1,9 @@
-Usage
+Web Server Tuturial
 =====
 
 .. _installation:
 
-Installation
+Getting started
 ------------
 
 To use Lumache, first install it using pip:
