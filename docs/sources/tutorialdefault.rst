@@ -1,18 +1,18 @@
 Web Server Tuturial
 =====
 
-.. _installation:
+.. _tutorialdefault:
 
-Getting started
+Tutorial Default Plots
 ------------
 
-To use Lumache, first install it using pip:
+To use the Default Plots first you need search the protein of interest
 
 .. code-block:: console
 
-   (.venv) $ pip install lumache
+   (.venv) $ screenshot
 
-Creating recipes
+Searching protein
 ----------------
 
 To retrieve a list of random ingredients,

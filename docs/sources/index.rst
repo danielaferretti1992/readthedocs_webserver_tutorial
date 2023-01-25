@@ -3,13 +3,12 @@
 Welcome to Lumache's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
+**ReadtheDocs_WebServer_Tutorial**  Read the Docs is an open-sourced free software documentation hosting platform.
+It pulls data from the Atlas database <https://ciaociaociaoatlas.org/>`_
 and offers a *simple* and *intuitive* API.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Check out the :doc:`gettingstarted` section for further information, including
+how to :ref:`tutorialdefault` the project.
 
 .. note::
 
@@ -21,5 +20,7 @@ Contents
 .. toctree::
 
    Home <self>
-   usage
-   api
+   gettingstarted
+   tutorialdefault
+   datasetsincluded
+   SQLschema
