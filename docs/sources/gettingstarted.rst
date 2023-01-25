@@ -1,4 +1,4 @@
-API
+SQL schema
 ===
 
 .. autosummary::
